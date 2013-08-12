@@ -217,7 +217,7 @@
 
   </div></div> <!-- /#main, /#main-wrapper -->
 
-  <?php if ($page['triptych_first'] || $page['triptych_top']  || $page['triptych_middle'] || $page['triptych_last']): ?>
+  <?php if ($page['triptych_first'] || $page['triptych_middle'] || $page['triptych_last']): ?>
     <div id="triptych-wrapper"><div id="triptych" class="clearfix">
       <?php print render($page['triptych_top']); ?>
       <?php print render($page['triptych_first']); ?>
