@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Song Example feature.
+ */
+
+include_once('song_example.features.inc');
