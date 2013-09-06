@@ -465,7 +465,7 @@ h1#site-name {
   padding: 0 15px;
 }
 #main-menu-links li {
-  float: left; /* LTR */
+  float: center; /* LTR */
   list-style: none;
   padding: 0 1px;
   margin: 0 1px;
