@@ -1,0 +1,10 @@
+; $Id$
+name = grayscale
+core = 7.x
+engine = phptemplate
+regions[left] = left sidebar
+; não temos barra direita
+; regions[right] = Right sidebar
+regions[content] = Content
+regions[header] = Header
+regions[footer] = Footer
