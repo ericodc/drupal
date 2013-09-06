@@ -474,7 +474,7 @@ h1#site-name {
   color: #333;
   background: #ccc;
   background: rgba(255, 255, 255, 0.7);
-  float: left; /* LTR */
+  float: center; /* LTR */
   height: 2.4em;
   line-height: 2.4em;
   padding: 0 0.8em;
