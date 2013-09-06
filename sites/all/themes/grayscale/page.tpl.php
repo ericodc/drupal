@@ -1,7 +1,7 @@
 <html>
     <head>
     <title><?php print $head_title ?></title>
-        <link rel="stylesheet" href="global.css" type="text/css" />
+        <?php print $styles ?>
     </head>
 <body>
     <div id="container">
